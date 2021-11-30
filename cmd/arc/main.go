@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/klauspost/compress/zip"
-	"github.com/mholt/archiver/v3"
 	"github.com/nwaples/rardecode"
+	"github.com/tomcruise81/archiver/v3"
+	"github.com/tomcruise81/compress/zip"
 )
 
 var (

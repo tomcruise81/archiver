@@ -5,8 +5,8 @@ import (
 	"io"
 	"strings"
 
+	fastxz "github.com/tomcruise81/xz"
 	"github.com/ulikunitz/xz"
-	fastxz "github.com/xi2/xz"
 )
 
 // TarXz facilitates xz compression

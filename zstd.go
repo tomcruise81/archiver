@@ -5,7 +5,7 @@ import (
 	"io"
 	"path/filepath"
 
-	"github.com/klauspost/compress/zstd"
+	"github.com/tomcruise81/compress/zstd"
 )
 
 // Zstd facilitates Zstandard compression.

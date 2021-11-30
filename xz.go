@@ -5,8 +5,8 @@ import (
 	"io"
 	"path/filepath"
 
+	fastxz "github.com/tomcruise81/xz"
 	"github.com/ulikunitz/xz"
-	fastxz "github.com/xi2/xz"
 )
 
 // Xz facilitates XZ compression.

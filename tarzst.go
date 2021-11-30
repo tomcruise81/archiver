@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/klauspost/compress/zstd"
+	"github.com/tomcruise81/compress/zstd"
 )
 
 // TarZstd facilitates Zstandard compression

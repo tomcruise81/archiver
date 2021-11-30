@@ -5,8 +5,8 @@ import (
 	"io"
 	"path/filepath"
 
-	"github.com/klauspost/compress/gzip"
-	"github.com/klauspost/pgzip"
+	"github.com/tomcruise81/compress/gzip"
+	"github.com/tomcruise81/pgzip"
 )
 
 // Gz facilitates gzip compression.

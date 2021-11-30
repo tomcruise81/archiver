@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/klauspost/compress/zip"
+	"github.com/tomcruise81/compress/zip"
 )
 
 func main() {
